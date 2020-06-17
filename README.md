@@ -127,7 +127,7 @@ Create a Cloudfront using s3 bucket(which contains images) and use the Cloudfron
   
   </li>
   </ul>
-  <p>At last the we created a WebServer that is fully based on Cloud...</p>
+  <p>At last we created a WebServer that is fully based on Cloud...</p>
   
   ![](Images/Output.png)
   
