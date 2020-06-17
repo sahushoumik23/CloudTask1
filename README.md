@@ -134,4 +134,4 @@ Create a Cloudfront using s3 bucket(which contains images) and use the Cloudfron
   <p><h2>Thank You for your time. If you have any doubt feel free to contact via Whatsapp 9338455463(No calls plzzz)
     If you have any suggestion....Do contact on the same.</h2></p>
     
-  <p><h1>Thank you.</h1>
+  <p><h1>Thank you.</h1></p>
